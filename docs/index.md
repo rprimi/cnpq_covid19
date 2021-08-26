@@ -4,7 +4,7 @@
 
 |                          |                                              |                      |
 |:------------------------:|:--------------------------------------------:|:--------------------:|
-| ![](images/logo-usf.png) | ![](images/brasao_default2.png){width="140"} | ![](images/cnpq.png) |
+| ![](images/logo-usf.png) | ![](images/brasao_default.png){width="140"} | ![](images/cnpq.png) |
 
 Prezado participante,
 
