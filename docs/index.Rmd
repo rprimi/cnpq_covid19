@@ -1,10 +1,18 @@
-### Relações entre características pessoais e engajamento no combate à COVID-19
+---
+title: "Relações entre características pessoais e engajamento no combate à COVID-19"
+author: "USF, UFSC, CNPq"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+    theme:  flatly
+---
 
 ------------------------------------------------------------------------
 
-|                          |                                              |                      |
-|:------------------------:|:--------------------------------------------:|:--------------------:|
-| ![](images/logo-usf.png) | ![](images/brasao_default.png) | ![](images/cnpq.png) |
+|                                       |                                             |                                   |
+|:-------------------------------------:|:-------------------------------------------:|:---------------------------------:|
+| ![](images/logo-usf.png){width="196"} | ![](images/brasao_default.png){width="104"} | ![](images/cnpq.png){width="194"} |
 
 Prezado participante,
 
