@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Relações entre características pessoais e engajamento no combate à COVID-19
 
-You can use the [editor on GitHub](https://github.com/rprimi/cnpq_covid19/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+------------------------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|                          |                                              |                      |
+|:------------------------:|:--------------------------------------------:|:--------------------:|
+| ![](images/logo-usf.png) | ![](images/brasao_default2.png){width="140"} | ![](images/cnpq.png) |
 
-### Markdown
+Prezado participante,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Estamos realizando uma pesquisa para investigar as relações entre características pessoais, socioemocionais, cognitivas e de comportamento associadas ao engajamento às medidas de saúde pública para lidar com a COVID-19.
 
-```markdown
-Syntax highlighted code block
+O estudo visa gerar informações relevantes, baseadas em evidências, para o aprimoramento das estratégias de comunicação nas campanhas de combate à disseminação do COVID-19 no Brasil.
 
-# Header 1
-## Header 2
-### Header 3
+Esse é um projeto realizado em parceria pelo Laboratório de Pesquisa em Avaliação Psicológica -- LPAP/UFSC e o LABAPE/Universidade São Francisco.
 
-- Bulleted
-- List
+O estudo está sendo financiado pelo CNPq em parceria com o Ministério da Ciência, Tecnologia, Inovações e Comunicações e com o Ministério da Saúde.
 
-1. Numbered
-2. List
+Para participar, acesse o link abaixo. Será solicitado que você faça em breve cadastro que permitirá que você consulte seus resultados depois da sua participação.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rprimi/cnpq_covid19/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Acesse aqui
