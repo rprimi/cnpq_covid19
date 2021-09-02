@@ -21,16 +21,14 @@ O estudo está sendo financiado pelo CNPq em parceria com o Ministério da Ciên
 
 Ao terminar receberá um feedback sobre suas **características pessoai**s no modelo **Big Five de Personalidade.**
 
-### [Clique aqui para participar](http://ec2-54-207-242-77.sa-east-1.compute.amazonaws.com/avaliado/cadastrar)
+[**Clique aqui para participar**](http://ec2-54-207-242-77.sa-east-1.compute.amazonaws.com/avaliado/cadastrar)
 
-  
-  
 Será solicitado que você faça em breve cadastro com seu e-mail. Esse cadastro permitirá que você acesse novos resultados que ieremos preparar no futuro próximo a medida que progredimos na pesquisa.
 
 Qualquer dúvida entre em contato conosco em: [cnpq_covid\@labape.com.br](mailto:cnpq_covid@labape.com.br)
 
 ------------------------------------------------------------------------
 
-|                                       |                                             |                                   |
-|:-------------------------------------:|:-------------------------------------------:|:---------------------------------:|
-| ![](images/logo-usf.png){width="196"} | ![](images/brasao_default.png){width="104"} | ![](images/cnpq.png){width="194"} |
+|                                    |                                          |                                |
+|:----------------------------------:|:----------------------------------------:|:------------------------------:|
+| ![](img/logo-usf.png){width="196"} | ![](img/brasao_default.png){width="104"} | ![](img/cnpq.png){width="194"} |
