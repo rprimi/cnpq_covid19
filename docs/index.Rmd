@@ -1,6 +1,6 @@
 ---
 title: "Relações entre características pessoais e engajamento no combate à COVID-19"
-subtitle: "LabAPE-USF, LPAP-UFSC & CNPq"
+subtitle: "[LabAPE-USF](http://www.labape.com.br/labape/), [LPAP-UFSC](https://lpap.paginas.ufsc.br/covid19/) & [CNPq](http://www.cnpq.br)"
 author: 
 output:
   html_document:
@@ -21,11 +21,13 @@ O estudo está sendo financiado pelo CNPq em parceria com o Ministério da Ciên
 
 Ao terminar receberá um feedback sobre suas **características pessoai**s no modelo **Big Five de Personalidade.**
 
-[**Clique aqui para participar**](http://ec2-54-207-242-77.sa-east-1.compute.amazonaws.com/avaliado/cadastrar)
+[**Clique aqui para participar**](http://ec2-54-207-242-77.sa-east-1.compute.amazonaws.com/g/BIB_Covid)
 
 Será solicitado que você faça em breve cadastro com seu e-mail. Esse cadastro permitirá que você acesse novos resultados que ieremos preparar no futuro próximo a medida que progredimos na pesquisa.
 
 Qualquer dúvida entre em contato conosco em: [cnpq_covid\@labape.com.br](mailto:cnpq_covid@labape.com.br)
+
+Prof. Dr. Carlos Henrique Sancineto da Silva Nunes (UFSC); Prof. Dr.Felipe Valentini (USF); Prof. Dr.Nelson Hauck Filho (USF); Prof. Dr.Ricardo Primi (USF); Profa. Dra. Ariela Raissa Lima Costa (USF); Ms. Leonardo de Barros Mose (USF); Ms. Bruno Bonfá Araujo (USF) & Ms. Gabriel Carvalho Franco (USF)
 
 ------------------------------------------------------------------------
 
